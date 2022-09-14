@@ -3,7 +3,7 @@ class Main {
   public static void main(String[] args) {
 
     // triangle Perimeter calculator
-    // you can input decimla numbers too.
+    // you can input decimal numbers too.
     
       Scanner scanner = new Scanner (System.in);
 
